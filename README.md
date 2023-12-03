@@ -12,3 +12,16 @@ Welcome to the Tennis Game repository! 🚀 This game is a simple yet exciting d
 
 1. 🎲 Roll the dice until all numbers match.
 2. 🏆 Win the game and enjoy the confetti celebration!
+
+## Getting Started
+
+Follow these steps to get the game up and running:
+
+1. 📥 Fork & Clone the repository:
+
+2. 🖥️ Open the project in your preferred code editor.
+
+3. 🚀 Run the game and start playing!
+
+## Show your support
+⭐ Star this repo if you enjoy the game! It motivates us to create more exciting projects.
