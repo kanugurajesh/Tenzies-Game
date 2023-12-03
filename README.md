@@ -51,5 +51,5 @@ For support, you can buy me a coffee
 <a href="https://www.buymeacoffee.com/kanugurajen" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 ## Show your support
-⭐ Star this repo if you enjoy the game! It motivates us to create more exciting projects.
+⭐ Star this repo if you enjoy the game! It motivates me to create more exciting projects.
 
