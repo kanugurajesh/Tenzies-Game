@@ -1,10 +1,7 @@
-# tennis-game
-Tennis game build using react.js + vite.js which is fun to play and has good design
+#### ⭐ star this repo if you like it
 
-## Installation steps
+<div align="center">
+  <img src="https://github.com/kanugurajesh/Tennis-Game/assets/120458029/a465193c-847d-4c3e-a9ab-9f34b7e1e53d" alt="game" width=150 height=150>
+</div>
 
-```bash
-  1. cd vite-project
-  2. npm install
-  3. npm run dev
-```
+# Tennis Game
